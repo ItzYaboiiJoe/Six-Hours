@@ -7,9 +7,9 @@ var checkbox_y = (room_height - checkbox_size) / 2;
 if (mouse_x > checkbox_x && mouse_x < checkbox_x + checkbox_size && mouse_y > checkbox_y && mouse_y < checkbox_y + checkbox_size && mouse_check_button_pressed(mb_left)) {
     music_on = !music_on;  // Toggle music state
     if (music_on) {
-        audio_sound_gain(Loop_6_chill, 1, 0);  // Turn music on
+        audio_sound_gain(MainMain_music, 1, 0);  // Turn music on
     } else {
-        audio_sound_gain(Loop_6_chill, 0, 0);  // Turn music off
+        audio_sound_gain(MainMain_music, 0, 0);  // Turn music off
     }
 }
 
