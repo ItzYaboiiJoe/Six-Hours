@@ -36,7 +36,7 @@
   "name":"Six Hours",
   "resources":[
     {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Room_Level_1","path":"rooms/Room_Level_1/Room_Level_1.yy",},},
     {"id":{"name":"Backround_Tiles","path":"sprites/Backround_Tiles/Backround_Tiles.yy",},},
     {"id":{"name":"bricks","path":"sprites/bricks/bricks.yy",},},
     {"id":{"name":"Hearts","path":"sprites/Hearts/Hearts.yy",},},
@@ -50,7 +50,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room_Level_1","path":"rooms/Room_Level_1/Room_Level_1.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
