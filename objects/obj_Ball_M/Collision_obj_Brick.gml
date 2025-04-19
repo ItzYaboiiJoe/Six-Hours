@@ -1,3 +1,3 @@
 move_bounce_all(true)
 
-speed+=0.3
+speed+=0.2

@@ -1,2 +1,2 @@
 //Assign sound affect
-collision_sound = Logic;
+collision_sound = sfx_collision;
