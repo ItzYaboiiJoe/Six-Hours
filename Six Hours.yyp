@@ -37,7 +37,6 @@
   "resources":[
     {"id":{"name":"obj_MainMenu","path":"objects/obj_MainMenu/obj_MainMenu.yy",},},
     {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},},
-    {"id":{"name":"obj_startButton","path":"objects/obj_startButton/obj_startButton.yy",},},
     {"id":{"name":"Room_Level_1","path":"rooms/Room_Level_1/Room_Level_1.yy",},},
     {"id":{"name":"Room_MainMenu","path":"rooms/Room_MainMenu/Room_MainMenu.yy",},},
     {"id":{"name":"Logic","path":"sounds/Logic/Logic.yy",},},
