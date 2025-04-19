@@ -36,6 +36,11 @@
   "name":"Six Hours",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Backround_Tiles","path":"sprites/Backround_Tiles/Backround_Tiles.yy",},},
+    {"id":{"name":"bricks","path":"sprites/bricks/bricks.yy",},},
+    {"id":{"name":"Hearts","path":"sprites/Hearts/Hearts.yy",},},
+    {"id":{"name":"Paddle_Parts","path":"sprites/Paddle_Parts/Paddle_Parts.yy",},},
+    {"id":{"name":"paddles_and_balls","path":"sprites/paddles_and_balls/paddles_and_balls.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
   ],
   "resourceType":"GMProject",
