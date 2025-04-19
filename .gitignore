@@ -57,3 +57,9 @@ Temporary Items
 # GameMaker temporary files
 *.resource_order
 *.old
+options/tvos/options_tvos.yy
+options/mac/options_mac.yy
+options/linux/options_linux.yy
+options/ios/options_ios.yy
+options/html5/options_html5.yy
+options/android/options_android.yy
