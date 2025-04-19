@@ -1,9 +1,7 @@
 {
   "$GMObject":"",
   "%Name":"obj_Brick",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_Ball_M","path":"objects/obj_Ball_M/obj_Ball_M.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"obj_Brick",
   "overriddenProperties":[],

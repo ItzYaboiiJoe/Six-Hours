@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Player",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_SideWalls",
+  "eventList":[],
   "managed":true,
-  "name":"obj_Player",
+  "name":"obj_SideWalls",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Player",
-    "path":"sprites/Player/Player.yy",
+    "name":"spr_SideWalls",
+    "path":"sprites/spr_SideWalls/spr_SideWalls.yy",
   },
   "spriteMaskId":null,
   "visible":true,
