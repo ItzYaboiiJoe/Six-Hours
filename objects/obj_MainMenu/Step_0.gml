@@ -1,6 +1,12 @@
 //starts game
 if (mouse_x > start_button_x && mouse_x < start_button_x + 100 && mouse_y > start_button_y && mouse_y < start_button_y + 25) {
     if (mouse_check_button_pressed(mb_left)) {
+		//stop main menu music
+		audio_stop_sound(MainMain_music);
+		
+		//start new music
+		audio_play_sound(Loop_5, 10, true);
+		
         room_goto(Room_Level_1);  // Transition to the game room
     }
 }

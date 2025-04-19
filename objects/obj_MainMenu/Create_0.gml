@@ -1,4 +1,4 @@
-audio_play_sound(Loop_6_chill, 10, true)
+audio_play_sound(MainMain_music, 10, true)
 
 // Initialize the button positions
 start_button_x = room_width / 2 - 50;  // Centered position for Start button
