@@ -40,6 +40,7 @@
     {"id":{"name":"obj_Brick_Mid","path":"objects/obj_Brick_Mid/obj_Brick_Mid.yy",},},
     {"id":{"name":"obj_Brick","path":"objects/obj_Brick/obj_Brick.yy",},},
     {"id":{"name":"obj_Death","path":"objects/obj_Death/obj_Death.yy",},},
+    {"id":{"name":"obj_MainMenu","path":"objects/obj_MainMenu/obj_MainMenu.yy",},},
     {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},},
     {"id":{"name":"obj_SideWalls","path":"objects/obj_SideWalls/obj_SideWalls.yy",},},
     {"id":{"name":"Room_Level_1","path":"rooms/Room_Level_1/Room_Level_1.yy",},},

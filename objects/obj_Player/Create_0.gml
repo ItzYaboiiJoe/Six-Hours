@@ -1,3 +1,3 @@
-sped = 5
+sped = 10
 
 moveDirection = 0
