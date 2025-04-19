@@ -48,6 +48,7 @@
     {"id":{"name":"Room_Level_1","path":"rooms/Room_Level_1/Room_Level_1.yy",},},
     {"id":{"name":"Room_MainMenu","path":"rooms/Room_MainMenu/Room_MainMenu.yy",},},
     {"id":{"name":"Room_Settings","path":"rooms/Room_Settings/Room_Settings.yy",},},
+    {"id":{"name":"block_sfx_collision","path":"sounds/block_sfx_collision/block_sfx_collision.yy",},},
     {"id":{"name":"Logic","path":"sounds/Logic/Logic.yy",},},
     {"id":{"name":"Loop_2","path":"sounds/Loop_2/Loop_2.yy",},},
     {"id":{"name":"Loop_3","path":"sounds/Loop_3/Loop_3.yy",},},

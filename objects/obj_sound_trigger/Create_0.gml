@@ -1,2 +1,2 @@
 //Assign sound affect
-collision_sound = Loop_2;
+collision_sound = Logic;
