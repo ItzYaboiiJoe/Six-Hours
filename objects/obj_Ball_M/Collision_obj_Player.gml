@@ -1,8 +1,8 @@
 move_bounce_all(true)
 
-if(speed >= 12)
+if(speed >= 10)
 {
-	speed = 12
+	speed = 10
 }
 else{
 	speed+=0.1
