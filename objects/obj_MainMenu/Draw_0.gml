@@ -28,3 +28,11 @@ if (mouse_x > exit_button_x && mouse_x < exit_button_x + button_width && mouse_y
     draw_set_color(c_white);  // Default color for text
 }
 draw_text(exit_button_x, exit_button_y, "Exit Game");
+
+//Draw the "settings" button
+if (mouse_x > settings_button_x && mouse_x < settings_button_x + button_width && mouse_y > settings_button_y && mouse_y < settings_button_y + button_height) {
+    draw_set_color(c_green); // Highlight when hovered
+} else {
+    draw_set_color(c_white);  // Default color for text
+}
+draw_text(settings_button_x, settings_button_y, "Settings");
