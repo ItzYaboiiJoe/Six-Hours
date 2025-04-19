@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Brick",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_Ball_M","path":"objects/obj_Ball_M/obj_Ball_M.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_Dup_PowerUp",
+  "eventList":[],
   "managed":true,
-  "name":"obj_Brick",
+  "name":"obj_Dup_PowerUp",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -23,15 +21,20 @@
   "physicsRestitution":0.1,
   "physicsSensor":false,
   "physicsShape":1,
-  "physicsShapePoints":[],
+  "physicsShapePoints":[
+    {"x":0.0,"y":0.0,},
+    {"x":64.0,"y":0.0,},
+    {"x":64.0,"y":64.0,},
+    {"x":0.0,"y":64.0,},
+  ],
   "physicsStartAwake":true,
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Brick_Healthy",
-    "path":"sprites/spr_Brick_Healthy/spr_Brick_Healthy.yy",
+    "name":"spr_Dup_PowerUp",
+    "path":"sprites/spr_Dup_PowerUp/spr_Dup_PowerUp.yy",
   },
   "spriteMaskId":null,
   "visible":true,
